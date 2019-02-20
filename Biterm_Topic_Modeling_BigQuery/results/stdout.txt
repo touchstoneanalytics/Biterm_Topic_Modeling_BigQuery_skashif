@@ -1,0 +1,46 @@
+[I 18:14:37.734 LabApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 18:14:38.275 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[W 18:14:38.282 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 18:14:38.286 LabApp] JupyterLab beta preview extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
+[I 18:14:38.286 LabApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
+[I 18:14:38.292 LabApp] Serving notebooks from local directory: /
+[I 18:14:38.292 LabApp] 0 active kernels 
+[I 18:14:38.293 LabApp] The Jupyter Notebook is running at: http://0.0.0.0:8888/skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea/
+[I 18:14:38.293 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 18:14:40.169 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.125.128) 0.59ms
+[I 18:14:42.642 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.125.128) 0.46ms
+[I 18:14:42.867 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.125.128) 0.45ms
+[I 18:14:44.409 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.148.12) 0.39ms
+[I 18:14:45.450 LabApp] Build is up to date
+[I 18:14:47.667 LabApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 18:14:59.356 LabApp] Saving file at /mnt/run_apple_data.sh
+[I 18:15:20.940 LabApp] Saving file at /mnt/run_apple_data.sh
+[I 18:55:21.212 LabApp] Saving file at /mnt/run_apple_data.sh
+[I 18:55:21.584 LabApp] Saving file at /mnt/run_apple_data.sh
+[I 19:10:45.428 LabApp] Saving file at /mnt/results2.txt
+[I 19:14:49.303 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.148.12) 0.46ms
+[I 19:16:45.599 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.125.128) 0.44ms
+[I 19:19:27.379 LabApp] Saving file at /mnt/run_apple_data.sh
+[I 19:19:27.893 LabApp] Saving file at /mnt/run_apple_data.sh
+[I 19:19:34.653 LabApp] Saving file at /mnt/run_apple_data.sh
+[I 19:33:59.405 LabApp] Saving file at /mnt/results3.txt
+[I 19:44:39.712 LabApp] Saving file at /mnt/run_apple_data.sh
+[I 20:02:28.427 LabApp] Saving file at /mnt/results4.txt
+[I 20:04:20.889 LabApp] Saving file at /mnt/run_apple_data.sh
+[I 20:16:35.573 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.148.12) 0.61ms
+[I 20:16:56.559 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.125.128) 0.42ms
+[I 21:17:05.619 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.125.128) 0.48ms
+[I 21:19:15.589 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.148.12) 0.42ms
+[W 21:27:17.965 LabApp] WebSocket ping timeout after 119931 ms.
+Websocket closed
+[I 23:06:45.498 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.148.12) 0.48ms
+[I 23:06:45.534 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.125.128) 0.39ms
+[I 23:20:39.387 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.125.128) 0.49ms
+[I 23:20:39.606 LabApp] 302 GET /skashif/Biterm_Topic_Modeling_BigQuery/notebookSession/5c670175c9e77c00070f15ea (10.0.125.128) 0.48ms
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 23:20:41.388 LabApp] Build is up to date
+Websocket closed
+[I 23:21:01.559 LabApp] Build is up to date
